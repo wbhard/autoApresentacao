@@ -1,0 +1,6 @@
+1- Criar um site de auto-apresentação.
+2- Tópicos a serem feitos.
+2.1 - Quem sou eu?
+2.2 - O que gosto de fazer?
+2.3 - O que estudo?
+2.4 - Quais meus planos?
